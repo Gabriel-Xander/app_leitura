@@ -12,6 +12,9 @@ dependencies:
   # Armazenamento local
   shared_preferences: ^2.2.2
 
+  # Fontes e estilo
+  google_fonts: ^6.1.0
+
   # Ícones e material design
   cupertino_icons: ^1.0.6
 
