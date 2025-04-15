@@ -1,0 +1,24 @@
+name: app_leitura
+description: Um aplicativo para cadastrar e avaliar livros lidos.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Armazenamento local
+  shared_preferences: ^2.2.2
+
+  # Ícones e material design
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
