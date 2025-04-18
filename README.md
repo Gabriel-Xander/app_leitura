@@ -85,7 +85,16 @@ lib/
 
 ## 📸 Screenshots
 
-*Adicione screenshots do seu aplicativo aqui*
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="assets/screenshots/Captura de tela 2025-04-15 200702.png" width="250" alt="Tela inicial do aplicativo" />
+    <img src="assets/screenshots/Captura de tela 2025-04-18 102430.png" width="250" alt="Adicionando um novo livro" />
+    <img src="assets/screenshots/Captura de tela 2025-04-18 102517.png" width="250" alt="Card detalhado do livro" />
+    <img src="assets/screenshots/Captura de tela 2025-04-18 102554.png" width="250" alt="Pesquisando livros" />
+  </div>
+</div>
+
+*Nota: Estas imagens são capturas de tela reais do aplicativo em execução, demonstrando a interface moderna e as funcionalidades de gerenciamento de livros.*
 
 ## 🔮 Futuras Implementações
 
